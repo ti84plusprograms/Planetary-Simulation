@@ -1,0 +1,27 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Processing
+application.*/
+applet
+build
+
+# IDE files
+.vscode/
+.idea/
+*.tmp
+*.temp
+
+# Audio/Video files (keep the ones in project)
+# *.mp3
+# *.wav
+# *.mov
+
+# Logs
+*.log
